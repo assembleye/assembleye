@@ -1,0 +1,28 @@
+{
+  "name": "assembleye",
+  "version": "0.1.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/assembleye/assembleye.git"
+  },
+  "author": "Gnlow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/assembleye/assembleye/issues"
+  },
+  "homepage": "https://github.com/assembleye/assembleye#readme",
+  "dependencies": {
+    "@types/react": "^16.9.41",
+    "@types/react-dom": "^16.9.8",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.6"
+  }
+}
