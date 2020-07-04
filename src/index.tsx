@@ -4,6 +4,6 @@ import {render} from "react-dom"
 import {Canvas} from "./Canvas"
 
 render(
-    <Canvas width="150" height="150"></Canvas>,
+    <Canvas></Canvas>,
     document.getElementById("app")
 )
